@@ -1,7 +1,7 @@
 # GuidedFilter
 Implementation of Guided Filter - Python
 
-This code is implemented based on the MATLAB release code provided by Kaiming He[http://kaiminghe.com/]
+This code is implemented based on the MATLAB release code provided by [Kaiming He](http://kaiminghe.com/)
 
 
 
